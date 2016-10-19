@@ -1,0 +1,6 @@
+E:\Proyectos UWP\GitHub\U5A6\TareaU5A6\TareaU5A6\bin\Debug\TareaU5A6.exe.config
+E:\Proyectos UWP\GitHub\U5A6\TareaU5A6\TareaU5A6\obj\Debug\TareaU5A6.csprojResolveAssemblyReference.cache
+E:\Proyectos UWP\GitHub\U5A6\TareaU5A6\TareaU5A6\bin\Debug\TareaU5A6.exe
+E:\Proyectos UWP\GitHub\U5A6\TareaU5A6\TareaU5A6\bin\Debug\TareaU5A6.pdb
+E:\Proyectos UWP\GitHub\U5A6\TareaU5A6\TareaU5A6\obj\Debug\TareaU5A6.exe
+E:\Proyectos UWP\GitHub\U5A6\TareaU5A6\TareaU5A6\obj\Debug\TareaU5A6.pdb
